@@ -1,0 +1,11 @@
+# Extracted files (NEVER extracted — but just in case)
+*.zipx
+*.extracted/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
