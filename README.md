@@ -44,10 +44,10 @@ ZIPBOMB/
 
 | 📄 File     | 🔐 Password | 📱 QR Code                        | 💨 Expands To  |
 |-------------|-------------|------------------------------------|-----------------|
-| `zbsm.zip`  | —           | <img src="qr-zbsm.png" alt="QR — zbsm.zip" width="100">  | 5.5 GB     |
-| `zblg.zip`  | —           | <img src="qr-zblg.png" alt="QR — zblg.zip" width="100">  | 281 TB     |
-| `zbxl.zip`  | —           | <img src="qr-zbxl.png" alt="QR — zbxl.zip" width="100">  | 4.5 PB     |
-| `42.zip`    | **`42`**    | <img src="qr-42.png" alt="QR — 42.zip" width="100">      | 4.5 PB     |
+| `zbsm.zip`  | —           | <img src="qr-zbsm.png" alt="QR — zbsm.zip" width="200">  | 5.5 GB     |
+| `zblg.zip`  | —           | <img src="qr-zblg.png" alt="QR — zblg.zip" width="200">  | 281 TB     |
+| `zbxl.zip`  | —           | <img src="qr-zbxl.png" alt="QR — zbxl.zip" width="200">  | 4.5 PB     |
+| `42.zip`    | **`42`**    | <img src="qr-42.png" alt="QR — 42.zip" width="200">      | 4.5 PB     |
 
 **Raw download URLs:**
 - `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zbsm.zip`
