@@ -38,24 +38,7 @@ ZIPBOMB/
 
 ## 📱 QR Code — Download
 
-> ⚠️ **WARNING:** Scanning the QR codes below with your phone or device will open a direct download link for one of these **zip bomb files**. If the downloaded file is opened or extracted, it will **fill your storage to 100%** and may cause system instability.
-
-### 💣 Zip Bomb Download QR Codes
-
-| 📄 File     | 🔐 Password | 📱 QR Code | 💨 Expands To |
-|-------------|-------------|------------|---------------|
-| `zbsm.zip`  | —           | <img src="qr-zbsm.png" alt="QR — zbsm.zip" width="100"> | 5.5 GB |
-| `zblg.zip`  | —           | <img src="qr-zblg.png" alt="QR — zblg.zip" width="100"> | 281 TB |
-| `zbxl.zip`  | —           | <img src="qr-zbxl.png" alt="QR — zbxl.zip" width="100"> | 4.5 PB |
-| `42.zip`    | **`42`**    | <img src="qr-42.png" alt="QR — 42.zip" width="100"> | 4.5 PB |
-
-**Download URLs:**
-- `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zbsm.zip`
-- `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zblg.zip`
-- `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zbxl.zip`
-- `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/42.zip`
-
-> 💣 **`zbxl.zip`** (43.75 MB) and **`42.zip`** (41.8 KB) will each expand to **4.5 petabytes** if extracted!
+> ⚠️ **WARNING:** QR codes are placed below in each file's detailed analysis section. Scanning a QR code with your phone or device will open a **direct download link** for that specific zip bomb file. If the downloaded file is opened or extracted, it will **fill your storage to 100%** and may cause system instability.
 
 ---
 
@@ -111,6 +94,10 @@ The legendary **`42.zip`** uses a completely different technique — **recursive
 
 Python's `zipfile` detects this as: `Overlapped entries: '0' (possible zip bomb)`.
 
+#### 📲 Download QR
+<img src="qr-zbsm.png" alt="QR Code — zbsm.zip Download" width="150">
+**Raw URL:** `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zbsm.zip`
+
 ### 📁 zblg.zip — "Zip Bomb Large"
 
 | Metric                  | Value                                  |
@@ -125,6 +112,10 @@ Python's `zipfile` detects this as: `Overlapped entries: '0' (possible zip bomb)
 | Compression ratio       | ~28,400,000:1 (28.4 million : 1)      |
 
 💀 This archive achieves one of the highest compression ratios possible in the standard ZIP format: **9.44 MB → 281 TB**. Python refuses extraction with an "Overlapped entries" error.
+
+#### 📲 Download QR
+<img src="qr-zblg.png" alt="QR Code — zblg.zip Download" width="150">
+**Raw URL:** `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zblg.zip`
 
 ### 📁 zbxl.zip — "Zip Bomb Extra Large"
 
@@ -141,6 +132,11 @@ Python's `zipfile` detects this as: `Overlapped entries: '0' (possible zip bomb)
 
 💀 This is one of the most dangerous zip bombs in existence. A mere **43.75 MB** download expands to claim **4.5 petabytes** — enough to **obliterate any consumer or many enterprise storage systems**. Uses **Zip64** extensions to exceed the 4 GB per-file limit of standard ZIP, which reduces compatibility with older extractors.
 
+#### 📲 Download QR
+<img src="qr-zbxl.png" alt="QR Code — zbxl.zip Download" width="150">
+**Raw URL:** `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zbxl.zip`
+> 💣 `zbxl.zip` (43.75 MB) will expand to **4.5 petabytes** if extracted!
+
 ### 📁 42.zip — "Classic 42 Zip Bomb"
 
 | Metric                  | Value                              |
@@ -156,6 +152,11 @@ Python's `zipfile` detects this as: `Overlapped entries: '0' (possible zip bomb)
 | Compression ratio       | ~107,000,000:1 (107 million : 1) |
 
 The entries at each layer are named `lib 0.zip` through `lib 15.zip`, each being a password-protected nested zip that unpacks to the next layer.
+
+#### 📲 Download QR
+<img src="qr-42.png" alt="QR Code — 42.zip Download" width="150">
+**Raw URL:** `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/42.zip`
+> 🔐 Password: **`42`** · 💣 `42.zip` (41.8 KB) will expand to **4.5 petabytes** if extracted!
 
 ---
 
