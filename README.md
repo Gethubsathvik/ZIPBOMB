@@ -47,7 +47,7 @@ ZIPBOMB/
 | `zbsm.zip`  | —           | <img src="qr-zbsm.png" alt="QR — zbsm.zip" width="200">  | 5.5 GB     |
 | `zblg.zip`  | —           | <img src="qr-zblg.png" alt="QR — zblg.zip" width="200">  | 281 TB     |
 | `zbxl.zip`  | —           | <img src="qr-zbxl.png" alt="QR — zbxl.zip" width="200">  | 4.5 PB     |
-| `42.zip`    | **`42`**    | <img src="qr-42.png" alt="QR — 42.zip" width="200">      | 4.5 PB     |
+| `42.zip`    | **`42`**    | <img src="qr-42.png" alt="QR — 42.zip" width="200">      |  ∞    |
 
 **Raw download URLs:**
 - `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zbsm.zip`
@@ -55,7 +55,7 @@ ZIPBOMB/
 - `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zbxl.zip`
 - `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/42.zip`
 
-> 💣 **`zbxl.zip`** (43.75 MB) and **`42.zip`** (41.8 KB, password `42`) will each expand to **4.5 petabytes** if extracted!
+> 💣 **`zbxl.zip`** (43.75 MB) and **`42.zip`** (41.8 KB, password `42`) will each expand to ** ∞ PTB** if extracted!
 
 ---
 
@@ -154,7 +154,7 @@ Python's `zipfile` detects this as: `Overlapped entries: '0' (possible zip bomb)
 **Raw URL:** `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zbxl.zip`
 > 💣 `zbxl.zip` (43.75 MB) will expand to **4.5 petabytes** if extracted!
 
-### 📁 42.zip — "Classic 42 Zip Bomb"
+### 📁 42.zip — "Extreme 42 Zip Bomb"
 
 | Metric                  | Value                              |
 |-------------------------|------------------------------------|
@@ -164,7 +164,7 @@ Python's `zipfile` detects this as: `Overlapped entries: '0' (possible zip bomb)
 | Encryption              | AES (password: **`42`**)          |
 | Nesting depth           | 5 layers (16 files per layer)     |
 | Innermost file size     | 4,294,967,295 bytes (~4.0 GB)     |
-| Total uncompressed data | ~4.5 PB                            |
+| Total uncompressed data | ~∞                            |
 | Construction technique  | **Recursive nesting**              |
 | Compression ratio       | ~107,000,000:1 (107 million : 1) |
 
@@ -192,7 +192,7 @@ Layer 2:  16 × 16 × 16 = 4,096 zips → ~8.9 MB total
 Layer 3:  16 × 16 × 16 × 16 = 65,536 zips → ~143 MB total
   ↓ extract
 Layer 4:  16 × 16 × 16 × 16 × 16 = 1,048,576 files → ~4.3 GB total
-  ↓ = final decompression = ~4.5 PB of data
+  ↓ = final decompression = ~ ∞ PT of data
 ```
 
 ### 🔄 Overlapped Entries (zbsm, zblg, zbxl)
