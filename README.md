@@ -38,7 +38,24 @@ ZIPBOMB/
 
 ## 📱 QR Code — Download
 
-> ⚠️ **WARNING:** QR codes are placed below in each file's detailed analysis section. Scanning a QR code with your phone or device will open a **direct download link** for that specific zip bomb file. If the downloaded file is opened or extracted, it will **fill your storage to 100%** and may cause system instability.
+> ⚠️ **WARNING:** Scanning the QR codes below with your phone or device will open a **direct download link** for one of these zip bomb files. If the downloaded file is opened or extracted, it will **fill your storage to 100%** and may cause system instability.
+
+### 💣 All QR Codes (Quick Reference)
+
+| 📄 File     | 🔐 Password | 📱 QR Code                        | 💨 Expands To  |
+|-------------|-------------|------------------------------------|-----------------|
+| `zbsm.zip`  | —           | <img src="qr-zbsm.png" alt="QR — zbsm.zip" width="100">  | 5.5 GB     |
+| `zblg.zip`  | —           | <img src="qr-zblg.png" alt="QR — zblg.zip" width="100">  | 281 TB     |
+| `zbxl.zip`  | —           | <img src="qr-zbxl.png" alt="QR — zbxl.zip" width="100">  | 4.5 PB     |
+| `42.zip`    | **`42`**    | <img src="qr-42.png" alt="QR — 42.zip" width="100">      | 4.5 PB     |
+
+**Raw download URLs:**
+- `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zbsm.zip`
+- `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zblg.zip`
+- `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zbxl.zip`
+- `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/42.zip`
+
+> 💣 **`zbxl.zip`** (43.75 MB) and **`42.zip`** (41.8 KB, password `42`) will each expand to **4.5 petabytes** if extracted!
 
 ---
 
