@@ -29,7 +29,7 @@ ZIPBOMB/
 ├── 💣 zbsm.zip    —  Zip Bomb (Small) —  42 kB → 5.5 GB   (non-recursive)
 ├── 💣 zblg.zip    —  Zip Bomb (Large)  —  9.4 MB → 281 TB (non-recursive)
 ├── 💣 zbxl.zip    —  Zip Bomb (XL)     —  43.75 MB → 4.5 PB (non-recursive, Zip64)
-├── 💣 42.zip      —  Zip Bomb (Classic) — 41.8 KB → 4.5 PB (recursive, password: 42)
+├── 💣 42.zip      —  Zip Bomb ("Extreme) — 41.8 KB → Infinity (recursive, password: 42)
 ├── 📄 README.md   —  ⭐ Star this repo!
 └── 📄 .gitignore  —  🚫 Ignore extracted output
 ```
