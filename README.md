@@ -16,7 +16,7 @@ This repository contains **4 zip bomb variants** using two different constructio
 | `zbsm.zip`     | 42 kB          | Non-recursive overlap | ~5.5 GB         | ~129,000:1      |
 | `zblg.zip`     | 9.4 MB         | Non-recursive overlap | ~281 TB         | ~28,400,000:1   |
 | `zbxl.zip`     | 43.75 MB       | Non-recursive overlap (Zip64) | ~4.5 PB   | ~98,000:1       |
-| `42.zip`       | 41.8 KB        | Recursive nesting (password: `42`) | ~4.5 PB | ~107,000,000:1  |
+| `42.zip`       | 41.8 KB        | Recursive nesting (password: `42`) | ∞ | ~107,000,000:1  |
 
 > 🛑 **WARNING:** Opening any of these files — even just viewing their contents in some archive managers — can **freeze your system** or **fill your disk to 100%**. **NEVER** attempt to extract these files on a real machine.
 
