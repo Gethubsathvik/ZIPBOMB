@@ -212,7 +212,7 @@ Layer 4:  16 × 16 × 16 × 16 × 16 = 1,048,576 files → ~4.3 GB total
 | `zbsm.zip`  | 42 kB          | 5.5 GB         | ~129,000:1         |
 | `zblg.zip`  | 9.4 MB         | 281 TB         | ~28,400,000:1 ✅   |
 | `zbxl.zip`  | 43.75 MB       | 4.5 PB         | ~98,000:1          |
-| `42.zip`    | 41.8 KB 🔐 (pw: `42`) | 4.5 PB  | ~107,000,000:1     |
+| `42.zip`    | 41.8 KB 🔐 (pw: `42`) | Infinity | ~107,000,000:1     |
 
 💡 **`zblg.zip` achieves the record**: a compression ratio of over **28 million** (28,400,000:1) — the theoretical maximum in the ZIP format using quadratic overlap and DEFLATE compression.
 
