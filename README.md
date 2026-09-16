@@ -36,6 +36,32 @@ ZIPBOMB/
 
 ---
 
+## 📱 QR Code — Download
+
+> ⚠️ **WARNING:** Scanning the QR code below with your phone or device will open a link that **downloads one of these zip bomb files**. If the file is opened or extracted, it will **fill your storage to 100%** and may cause system instability.
+
+### 📲 Download from GitHub
+
+<img src="qr.png" alt="QR Code — ZIP BOMB GitHub Repo" width="150">
+
+**URL:** `https://github.com/Gethubsathvik/ZIPBOMB`
+
+### 🔥 Most Dangerous File (Direct Download)
+
+<img src="qr-zbxl.png" alt="QR Code — zbxl.zip Download" width="150">
+
+**URL:** `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zbxl.zip`
+
+> 💣 `zbxl.zip` (43.75 MB) will expand to **4.5 petabytes** if extracted!
+
+### 📖 README
+
+<img src="qr-readme.png" alt="QR Code — README" width="150">
+
+**URL:** `https://github.com/Gethubsathvik/ZIPBOMB/blob/master/README.md`
+
+---
+
 ## 🧬 Construction Techniques
 
 ### 🔬 Non-Recursive Zip Bombs (zbsm, zblg, zbxl)
