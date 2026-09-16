@@ -38,27 +38,24 @@ ZIPBOMB/
 
 ## 📱 QR Code — Download
 
-> ⚠️ **WARNING:** Scanning the QR code below with your phone or device will open a link that **downloads one of these zip bomb files**. If the file is opened or extracted, it will **fill your storage to 100%** and may cause system instability.
+> ⚠️ **WARNING:** Scanning the QR codes below with your phone or device will open a direct download link for one of these **zip bomb files**. If the downloaded file is opened or extracted, it will **fill your storage to 100%** and may cause system instability.
 
-### 📲 Download from GitHub
+### 💣 Zip Bomb Download QR Codes
 
-<img src="qr.png" alt="QR Code — ZIP BOMB GitHub Repo" width="150">
+| 📄 File     | 🔐 Password | 📱 QR Code | 💨 Expands To |
+|-------------|-------------|------------|---------------|
+| `zbsm.zip`  | —           | <img src="qr-zbsm.png" alt="QR — zbsm.zip" width="100"> | 5.5 GB |
+| `zblg.zip`  | —           | <img src="qr-zblg.png" alt="QR — zblg.zip" width="100"> | 281 TB |
+| `zbxl.zip`  | —           | <img src="qr-zbxl.png" alt="QR — zbxl.zip" width="100"> | 4.5 PB |
+| `42.zip`    | **`42`**    | <img src="qr-42.png" alt="QR — 42.zip" width="100"> | 4.5 PB |
 
-**URL:** `https://github.com/Gethubsathvik/ZIPBOMB`
+**Download URLs:**
+- `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zbsm.zip`
+- `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zblg.zip`
+- `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zbxl.zip`
+- `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/42.zip`
 
-### 🔥 Most Dangerous File (Direct Download)
-
-<img src="qr-zbxl.png" alt="QR Code — zbxl.zip Download" width="150">
-
-**URL:** `https://github.com/Gethubsathvik/ZIPBOMB/raw/master/zbxl.zip`
-
-> 💣 `zbxl.zip` (43.75 MB) will expand to **4.5 petabytes** if extracted!
-
-### 📖 README
-
-<img src="qr-readme.png" alt="QR Code — README" width="150">
-
-**URL:** `https://github.com/Gethubsathvik/ZIPBOMB/blob/master/README.md`
+> 💣 **`zbxl.zip`** (43.75 MB) and **`42.zip`** (41.8 KB) will each expand to **4.5 petabytes** if extracted!
 
 ---
 
